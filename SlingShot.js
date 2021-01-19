@@ -1,0 +1,8 @@
+class SlingShot{
+    constructor(){
+
+    }
+    display(){
+
+    };
+}
